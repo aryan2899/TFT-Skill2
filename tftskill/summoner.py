@@ -131,7 +131,3 @@ class Summoner:
 
     
 # Usage example:
-"""api_key = "RGAPI-804fd993-086e-4742-95af-349b063ae286"
-region = "na1"
-summoner = Summoner(api_key, region)
-summoner.run()"""
